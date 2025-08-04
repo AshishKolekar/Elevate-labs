@@ -1,0 +1,15 @@
+Date,Customer Name,Product,Category,Quantity,Unit Price,Total Price,Payment Method
+2025-07-01,John Doe,Laptop,Electronics,1.0,75000.0,75000.0, Credit Card
+2025-07-02,Jane Smith,phone ,Electronics,2.0,35000.0,70000.0,debit card
+2025-07-03,,Shoes,Fashion,1.0,2500.0,2500.0, cash 
+2025-07-04,Aarav Patel,T-shirt,Fashion,,500.0,,upi
+2025-07-05,Sara Khan,Blender,Home appliances,1.0,3000.0,3000.0,UPI
+2025-07-06,David Lee,,electronics,1.0,40000.0,,credit  card
+2025-07-07,Maya Iyer,Washing Machine,Home Appliances,1.0,18000.0,18000.0,DEBIT CARD
+2025-07-08,Akash Mehta,Jeans ,Fashion,2.0,1200.0,2400.0,Cash
+2025-07-09,Nina Roy,Laptop,Electronics,1.0,75000.0,75000.0,credit Card
+2025-07-10,Sumit Verma,Phone,ElecTronics,1.0,35000.0,35000.0, upi
+2025-07-10,Sumit Verma,Phone,ElecTronics,1.0,35000.0,35000.0, upi
+2025-07-11,,Shirt , Fashion,1.0,,1000.0, debit Card
+2025-07-12,Anjali Rana,Jeans,Fashion,,1200.0,2400.0,Cash
+2025-07-13,Raj Malhotra,Laptop,Electronics,1.0,75000.0,, CREDIT card 
